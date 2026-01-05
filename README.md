@@ -20,6 +20,7 @@ A simple object-oriented Python program that collects car details from the user 
 
 ## Sample Output
 =============== CAR INFORMATION SYSTEM =================
+
 Enter the name: Tesla  
 Enter the color: Red  
 Enter the speed: 250  
